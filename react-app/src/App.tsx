@@ -37,7 +37,7 @@ function App(){
     <Button 
       color = 'primary' 
       onClickButton = {() => {
-        setAlertVisible(true);
+        setAlertVisible(true);  // sets alert to visible
       }
     }
   > My button</Button>
